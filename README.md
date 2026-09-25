@@ -1,15 +1,3 @@
-<style>
-
-.counter {
-   opacity: 100%;
-
-   &:hover {
-      opacity: 90%;
-   }
-}
-
-</style>
-
 <p align="center" >
    <img src="https://img.shields.io/badge/VSCode-1.139.1-abcdef?style=flat">
    <img src="https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=fff">
@@ -22,7 +10,7 @@
 
 <div align="center">
 
-<img src="./Example/Example - 0.webp" style="border-radius: 16px;" class="counter" />
+<img src="./Example/Example - 0.webp" style="border-radius: 16px;" />
 
 </div>
 
@@ -38,7 +26,7 @@ This repo is home to two things: the **C# minifier package** that powers part of
 
 <div align="center">
 
-<img src="./Example/Example - 1.webp" style="border-radius: 16px;" class="counter" />
+<img src="./Example/Example - 1.webp" style="border-radius: 16px;" />
 
 </div>
 
@@ -50,7 +38,7 @@ A signal technician is sent to a derelict space station to find out why communic
 
 <div align="center">
 
-<img src="./Example/Example - 2.webp" style="border-radius: 16px;" class="counter" />
+<img src="./Example/Example - 2.webp" style="border-radius: 16px;" />
 
 </div>
 
@@ -72,7 +60,7 @@ The station is built in three layers:
 
 <div align="center">
 
-<img src="./Example/Example - 3.webp" style="border-radius: 16px;" class="counter" />
+<img src="./Example/Example - 3.webp" style="border-radius: 16px;" />
 
 </div>
 
@@ -95,7 +83,7 @@ They're not *evil* in a moral sense. But from where you're standing, they're the
 
 <div align="center">
 
-<img src="./Example/Example - 6.webp" style="border-radius: 16px 16px 5px 5px;" class="counter" />
+<img src="./Example/Example - 6.webp" style="border-radius: 16px 16px 5px 5px;" />
 
 </div>
 
@@ -104,7 +92,7 @@ You arrive. Nothing moves. Puzzles are simple — lights, hatches, gravity. Crew
 
 <div align="center">
 
-<img src="./Example/Example - 8.webp" style="border-radius: 5px" class="counter" />
+<img src="./Example/Example - 8.webp" style="border-radius: 5px" />
 
 </div>
 
@@ -113,7 +101,7 @@ They show up more. Some attack. Puzzles get meaner — you avoid them, redirect 
 
 <div align="center">
 
-<img src="./Example/Example - 4.webp" style="border-radius: 5px 5px 16px 16px;" class="counter" />
+<img src="./Example/Example - 4.webp" style="border-radius: 5px 5px 16px 16px;" />
 
 </div>
 
@@ -126,7 +114,7 @@ Walls made of creatures. Breathing rooms. Puzzles built on light, sound, and gra
 
 <div align="center">
 
-<img src="./Example/Example - 7.webp" style="border-radius: 16px;" class="counter" />
+<img src="./Example/Example - 7.webp" style="border-radius: 16px;" />
 
 </div>
 
@@ -143,7 +131,7 @@ Like Inside, the puzzles aren't filler — they *say* things.
 
 <div align="center">
 
-<img src="./Example/Example - 21.webp" style="border-radius: 16px;" class="counter" />
+<img src="./Example/Example - 21.webp" style="border-radius: 16px;" />
 
 </div>
 
