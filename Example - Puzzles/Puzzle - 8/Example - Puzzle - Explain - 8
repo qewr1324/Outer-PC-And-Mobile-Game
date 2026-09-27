@@ -1,0 +1,30 @@
+🎯 معمای ۹: انتخاب نهایی (نسخه‌ی عمیق)
+چیدمان اتاق
+
+اتاق ملکه. یک فضای عظیم ارگانیک با دیوارهای نفس‌کش. در مرکز، یک کره‌ی ارگانیک عظیم شناور (ملکه). سه گره‌ی نوری روی ستون‌های نازک در اطراف. یک سکوی دایره‌ای در مرکز. دو مسیر: یکی به سمت ملکه، یکی به سمت گره‌ها. در سایه‌ها، سایه‌های محو همسرایان که بی‌حرکت تماشا می‌کنند.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد می‌شود. ملکه را می‌بیند. سه گره را می‌بیند. نمی‌داند چه باید بکند. باید کشف کند.
+لایه‌ی ۲ — مانع اول
+
+بازیکن به سمت ملکه می‌رود. ملکه تاندون‌هایش را باز می‌کند. بازیکن می‌تواند نزدیک شود. اما اگر نزدیک شود، تاندون‌ها دورش می‌پیچند. بازیکن باید تصمیم بگیرد.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه سه گره‌ی نوری می‌شود. اگر یکی را قطع کند، ملکه ضعیف می‌شود. اما موجودات اطراف، بیدار می‌شوند. بازیکن متوجه می‌شود که دو مسیر دارد: ادغام یا نابودی.
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن یکی از گره‌ها را قطع می‌کند. ملکه ضعیف می‌شود. اما موجودات به سمت او هجوم می‌آورند. بازیکن باید سریع به گره‌ی بعدی برسد. اگر کند باشد، موجودات او را می‌گیرند.
+لایه‌ی ۵ — پیچیدگی دوم
+
+بازیکن متوجه می‌شود که هر گره، یک صدا تولید می‌کند. اگر هر سه گره را همزمان قطع کند، صدا قطع می‌شود و ملکه می‌میرد. اما اگر یکی را قطع کند و صبر کند، ملکه یاد می‌گیرد و گره‌ها را دوباره فعال می‌کند. بازیکن باید سریع باشد.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید: ۱) یکی از گره‌ها را قطع کند، ۲) از موجودات فرار کند، ۳) به گره‌ی بعدی برسد، ۴) هر سه را در یک بازه‌ی کوتاه قطع کند. یا: ۱) به سمت ملکه برود، ۲) خودش را رها کند، ۳) تاندون‌ها دورش بپیچند. انتخاب، نهایی است.
+لایه‌ی ۷ — پیامد
+
+اگر بازیکن ادغام شود: ملکه و بازیکن یکی می‌شوند. اتاق در نور سبز محو می‌شود. اگر بازیکن نابودی را انتخاب کند: ملکه می‌میرد. اتاق در نور سفید منفجر می‌شود. اگر بازیکن هیچ‌کدام را انتخاب نکند: هر دو بی‌حرکت می‌مانند. سکوت مطلق.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit standing at the center of a vast organic throne chamber, facing a massive floating organic core with two paths: one leading into the core, one leading to three glowing geometric nodes on thin pillars. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: cold bioluminescent green and blue glow from the core, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and green tones. Minimalist composition: a large smooth organic sphere, simple tendrils connecting to the walls, three small glowing nodes on thin pillars, a circular platform in the center. Faint silhouettes of many creatures surrounding the core, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

@@ -1,0 +1,21 @@
+Prompt (English):
+
+    A vast abstract map of a space station, seen from far above. Isometric view, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: faint cold white light from distant stars, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: simple geometric rings, concentric circular layers, thin connecting corridors, a small glowing core at the center. Tiny silhouettes of the lone figure and creatures barely visible as dots on the map, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+Negative prompt:
+
+    texture, noise, detail map, normal map, roughness map, albedo texture, intricate details, clutter, props, bright colors, cartoon, anime, UI, text, HUD, gore, low contrast, flat lighting, crowded scene, cute creatures, realistic materials, metal scratches, rust, fabric weave, complex geometry, organic texture, slime, wet surface, blood
+
+توضیح فارسی:
+
+    صحنه: نقشه‌ی انتزاعی ایستگاه فضایی با حلقه‌های هندسی، لایه‌های دایره‌ای هم‌مرکز، راهروهای باریک، و هسته‌ی کوچک درخشان در مرکز.
+
+    شخصیت: سایه‌های بسیار کوچک بازیکن و موجودات که به‌صورت نقطه روی نقشه دیده می‌شوند.
+
+    دوربین: ایزومتریک از راه دور، سه‌بعدی.
+
+    سبک: سیاه‌وسفید با ته‌رنگ آبی سرد، پرکنتراست، مه حجمی، بدون تکسچر.
+
+    حس: سکوت، تنهایی، اتمسفر مرموز و باشکوه، بدون رابط کاربری.
+
+

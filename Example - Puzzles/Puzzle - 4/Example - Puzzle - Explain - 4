@@ -1,0 +1,30 @@
+🎯 معمای ۵: پل مایع (نسخه‌ی عمیق)
+چیدمان اتاق
+
+یک شکاف عمیق مستطیلی که کل عرض اتاق را می‌پوشاند. کف شکاف پر از مایع سبز تیره است. در سمت بازیکن، یک منبع برق استوانه‌ای ساده با یک کابل نازک. در سمت دیگر شکاف، دری بسته. در دیوارهای اطراف، سه پنل هندسی با چراغ‌های کوچک. در سایه‌ها، سایه‌های محو موجودات.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد می‌شود. شکاف عمیق را می‌بیند. باید از آن عبور کند. هیچ پلی نیست.
+لایه‌ی ۲ — مانع اول
+
+بازیکن به لبه‌ی شکاف نزدیک می‌شود. می‌بیند مایع سبز در کف شکاف است. اگر بپرد، می‌افتد. باید راهی پیدا کند.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه منبع برق و کابل می‌شود. اگر کابل را به مایع وصل کند، مایع رسانا می‌شود و یک پل نور موقت روی آن ظاهر می‌شود. بازیکن این را با آزمایش کشف می‌کند.
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن کابل را وصل می‌کند. پل نور ظاهر می‌شود. اما فقط برای چند ثانیه. سپس خاموش می‌شود. بازیکن باید سریع عبور کند. اگر کند باشد، پل قطع می‌شود و برمی‌گردد.
+لایه‌ی ۵ — پیچیدگی دوم
+
+بازیکن متوجه می‌شود که سه پنل روی دیوار با چراغ‌های کوچک، به مایع وصل هستند. اگر بازیکن یکی از پنل‌ها را فعال کند، پل نور بیشتر دوام می‌آورد. اما هر پنل، یک صدای الکتریکی تولید می‌کند که موجودات را جذب می‌کند. بازیکن باید بین دوام پل و خطر موجودات تعادل برقرار کند.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید: ۱) یکی از پنل‌ها را فعال کند (نه هر سه، چون صدا زیاد می‌شود)، ۲) کابل را وصل کند، ۳) در زمان مناسب عبور کند. انتخاب پنل، یک تصمیم استراتژیک است.
+لایه‌ی ۷ — پیامد
+
+بازیکن عبور می‌کند. اما وقتی به سمت دیگر می‌رسد، متوجه می‌شود که مایع سبز از شکاف بالا آمده و به دنبال او می‌آید. یعنی مایع زنده است. این اولین نشانه‌ی ارگانیک بودن محیط.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit standing at the edge of a deep chasm filled with glowing green liquid, connecting a thin cable from a cylindrical power source to the liquid. A temporary bridge of light forming across the chasm. Three geometric panels on the walls with small lights, one activated. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: faint green bioluminescent glow from the liquid, cold blue glow from the power source, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and green tones. Minimalist composition: clean geometric shapes, no clutter. Faint silhouettes of creatures slowly approaching from the fog, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

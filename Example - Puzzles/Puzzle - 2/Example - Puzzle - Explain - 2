@@ -1,0 +1,30 @@
+🎯 معمای ۳: دریچه‌ی ورودی (نسخه‌ی عمیق)
+چیدمان اتاق
+
+یک اتاق تاریک بزرگ با سه درِ هندسی در سه ضلع. بالای هر در، یک نور کوچک سرد. در مرکز اتاق، سه ستون با دکمه‌های دایره‌ای. در گوشه‌ی اتاق، یک بلوک سنگین. در سایه‌های نزدیک درها، سایه‌های محو موجودات.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد می‌شود. سه در می‌بیند. هر در یک نور دارد. فقط یکی روشن است. بازیکن باید دکمه‌ها را فشار دهد تا درها باز شوند.
+لایه‌ی ۲ — مانع اول
+
+بازیکن دکمه‌ی اول را فشار می‌دهد. نور درِ اول روشن می‌شود. اما نور درِ دوم خاموش می‌شود. بازیکن دکمه‌ی دوم را فشار می‌دهد. نور درِ دوم روشن می‌شود، اما نور درِ اول خاموش می‌شود. یعنی هر دکمه، نور یک در را روشن و نور در دیگر را خاموش می‌کند.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه می‌شود که ترتیب مهم است. اگر دکمه‌ها را به ترتیب خاصی فشار دهد، می‌تواند هر سه نور را همزمان روشن کند. اما ترتیب چیست؟
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن چند ترتیب را امتحان می‌کند. بعضی ترتیب‌ها دو نور را روشن می‌کنند، اما نور سوم خاموش می‌شود. بازیکن باید حافظه داشته باشد و ترتیب‌ها را یادداشت کند.
+لایه‌ی ۵ — پیچیدگی دوم
+
+بازیکن متوجه می‌شود که بلوک سنگین در گوشه‌ی اتاق، روی یک پنل مخفی قرار دارد. اگر بلوک را هل دهد، پنل فعال می‌شود و یک نور چهارم (بالای در وسط) روشن می‌شود. این نور چهارم، ترتیب درست را نشان می‌دهد: یک الگوی چشمک‌زن که بازیکن باید دنبال کند.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید: ۱) بلوک را هل دهد، ۲) الگوی چشمک‌زن را حفظ کند، ۳) دکمه‌ها را به همان ترتیب فشار دهد. اگر اشتباه کند، الگو دوباره از اول شروع می‌شود.
+لایه‌ی ۷ — پیامد
+
+هر سه در باز می‌شوند. اما در همان لحظه، سایه‌های موجودات در سایه‌ها حرکت می‌کنند. بازیکن باید سریع یکی از درها را انتخاب کند. هر در به یک مسیر متفاوت می‌رود — اما همه به یک جا ختم می‌شوند. در واقع، انتخاب در، یک توهم است.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit standing in a vast dark entrance chamber, facing three geometric doors on three walls. Above each door, a small cold white light, only one lit. In the center, three cylindrical pillars with circular buttons. In a corner, a heavy rectangular block on a hidden panel. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: three small cold white lights above doors, one faint light on the hidden panel, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: clean geometric shapes, no clutter. Faint silhouettes of creatures hiding in shadows near the doors, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

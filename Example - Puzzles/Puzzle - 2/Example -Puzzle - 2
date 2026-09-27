@@ -1,0 +1,19 @@
+معمای ۳: دریچه‌ی ورودی
+
+ایده: بازیکن باید سه کلید برقی را در سه اتاق مجاور فعال کند، اما هر بار که یک کلید فعال می‌شود، نوری در اتاق دیگر خاموش می‌شود. باید ترتیب درست را کشف کند. موجودات در سایه‌ها پنهان شده‌اند و با هر اشتباه، نزدیک‌تر می‌شوند.
+
+مکانیک: ترتیب، حافظه، نور به‌عنوان منبع.
+
+پرامپت تصویری:
+
+    A tiny lone figure in a simple spacesuit standing in a vast dark entrance chamber, facing three geometric doors. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: three small cold white lights above each door, only one lit at a time, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: three rectangular doors, simple circular buttons on pillars, thin cables running between them. Faint silhouettes of creatures hiding in the shadows near the doors, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+توضیح فارسی:
+
+    صحنه: اتاق ورودی تاریک با سه درِ هندسی، سه نور کوچک بالای هر در که فقط یکی روشن است.
+
+    شخصیت: تکنسین در مرکز اتاق، در برابر سه در.
+
+    موجودات: سایه‌های محو که در تاریکی نزدیک درها پنهان شده‌اند.
+
+    حس: تعلیق، ترس از اشتباه، اتمسفر سنگین.

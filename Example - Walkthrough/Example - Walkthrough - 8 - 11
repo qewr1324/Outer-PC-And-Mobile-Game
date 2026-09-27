@@ -1,0 +1,31 @@
+🎬 لایه‌ی میانی — سکانس‌های ۱ تا ۴
+سکانس ۱: فرود در تاریکی (Descent into Green)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: آسانسور در طبقه‌ی میانی باز می‌شود. بازیکن وارد یک راهروی طولانی می‌شود که دیوارهایش نیمه‌فلزی، نیمه‌ارگانیک است. رگه‌های سبز محو در دیوارها می‌درخشند. هوا مرطوب است. قطرات مایع از سقف می‌چکند. کف از پنل‌های فلزی است، اما بعضی جاها با بافت ارگانیک پوشیده شده.
+اتفاقات: بازیکن راه می‌رود. صدای قدم‌ها روی فلز و مایع. برای اولین بار، دیوارها نفس می‌کشند — یک بافت زنده که آرام باز و بسته می‌شود. بازیکن متوقف می‌شود. به دیوار نزدیک می‌شود. دستش را نزدیک می‌کند. دیوار آرام تپش می‌کند.
+حس: کنجکاوی، وحشت آرام، اولین تماس با ارگانیک.
+سکانس ۲: آزمایشگاه متروک (The Abandoned Lab)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: بازیکن وارد یک آزمایشگاه بزرگ می‌شود. ردیف‌هایی از مخازن استوانه‌ای شیشه‌ای. بعضی خالی، بعضی پر از مایع سبز. داخل بعضی مخازن، سایه‌های محو موجودات شناورند. روی دیوار، نوشته‌های دست‌نویس با خطی لرزان: «آن‌ها صدا را یاد می‌گیرند.» یک لاگ صوتی پخش می‌شود: «ما فکر کردیم می‌توانیم کنترلشان کنیم. اشتباه کردیم.»
+اتفاقات: بازیکن از کنار مخازن می‌گذرد. یکی از موجودات داخل مخزن، آرام به سمت شیشه می‌آید و به بازیکن نگاه می‌کند. بازیکن مکث می‌کند. موجود کاری نمی‌کند. بازیکن ادامه می‌دهد.
+حس: اندوه، رمز و راز، اولین نگاه متقابل.
+سکانس ۳: راهروی صدا (The Sound Corridor)
+
+نوع: معما — انحراف با صدا (اصلی ۴)
+محیط: بازیکن وارد راهرویی باریک و طولانی می‌شود. سه ستون استوانه‌ای در میانه. در انتها، سه موجود بی‌حرکت. در کنار بازیکن، یک بلوک سنگین. روی دیوار چپ، یک لوله‌ی فلزی نازک. نوارهای نور سرد و کم‌سو در سقف.
+اتفاقات: بازیکن معمای اصلی ۴ را حل می‌کند. چهار فرعی. در پایان، یکی از موجودات صدای لوله را تقلید می‌کند. اولین نشانه‌ی تقلید.
+حس: تعلیق، تمرکز، ترس از صدا.
+سکانس ۴: شکاف سبز (The Green Chasm)
+
+نوع: انتقال — راه رفتن
+محیط: بازیکن از راهرو خارج می‌شود و وارد یک سالن بزرگ می‌شود. در وسط سالن، یک شکاف عمیق که کف آن پر از مایع سبز درخشان است. پل‌های باریک فلزی که بعضی شکسته‌اند. دیوارها کاملاً ارگانیک شده‌اند. رگه‌های سبز مانند رگ‌های خونی می‌درخشند. صدای ضربان قلب عظیم از دور.
+اتفاقات: بازیکن به لبه‌ی شکاف می‌رسد. به پایین نگاه می‌کند. مایع آرام حرکت می‌کند. یک لاگ صوتی: «مایع زنده است. آن را لمس نکنید.» بازیکن به سمت پل باریک می‌رود.
+حس: هیبت، ترس، آماده‌سازی برای معمای بعدی.
+
+پرامپت تصویری (چهارپنلی):
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and faint green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit walking through a long corridor with half-metal half-organic walls, faint green veins glowing, liquid dripping from the ceiling, the walls slowly breathing. Top-right: the figure in a vast abandoned laboratory with rows of cylindrical glass tanks, some filled with green liquid, faint creature silhouettes floating inside, handwritten notes on the wall. Bottom-left: the figure in a narrow corridor with three cylindrical pillars, three motionless creatures at the far end, a heavy block nearby, a thin metal pipe on the wall. Bottom-right: the figure standing at the edge of a deep chasm filled with glowing green liquid, broken thin bridges, fully organic walls with glowing veins, distant heartbeat. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+

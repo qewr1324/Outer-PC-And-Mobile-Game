@@ -1,0 +1,21 @@
+🎯 معمای ۶: تقلید صدا
+
+ایده: بازیکن وارد اتاقی می‌شود که یک موجود بزرگ در آن زندانی است. برای عبور، باید دری را باز کند که کلیدش در سمت دیگر اتاق است. اما موجود، صدای بازیکن را تقلید می‌کند. هر بار که بازیکن قدم برمی‌دارد، موجود همان صدا را از سمت مخالف تولید می‌کند تا بازیکن را گمراه کند. راه‌حل: بازیکن باید عمداً صدایی در یک جهت تولید کند، سپس بی‌صدا در جهت مخالف حرکت کند. اما موجود به‌تدریج یاد می‌گیرد و دفعه‌ی بعد، خودش صدا را در جهت درست تولید می‌کند.
+
+مکانیک: تقلید صدا، فریب، یادگیری موجود.
+
+پرامپت تصویری:
+
+    A tiny lone figure in a simple spacesuit standing motionless in a vast dark chamber, facing a large geometric cage in the center. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: dim cold white glow from a single overhead light, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and faint green tones. Minimalist composition: a large rectangular cage made of simple bars, a small circular key on the far side of the room, thin geometric cables on the floor. Faint silhouette of a large creature inside the cage, motionless, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+توضیح فارسی:
+
+    صحنه: اتاق تاریک عظیم با یک قفس مستطیلی بزرگ از میله‌های ساده، یک کلید دایره‌ای کوچک در سمت دیگر اتاق.
+
+    شخصیت: تکنسین بی‌حرکت در مرکز اتاق.
+
+    موجود: سایه‌ی محو یک موجود بزرگ داخل قفس، بی‌حرکت.
+
+    حس: تعلیق، ترس از صدا، اتمسفر سرد و خفه‌کننده.
+
+

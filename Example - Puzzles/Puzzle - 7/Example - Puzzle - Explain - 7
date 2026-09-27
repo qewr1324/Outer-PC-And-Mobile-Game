@@ -1,0 +1,30 @@
+🎯 معمای ۸: جاذبه‌ی معکوس (نسخه‌ی عمیق)
+چیدمان اتاق
+
+یک شفت عمودی بلند و استوانه‌ای. در دیواره‌ی داخلی، سکوهای مستطیلی در سه سطح مختلف. در کف و سقف شفت، دو پنل هندسی با چراغ‌های کوچک. در میانه‌ی شفت، یک جسم کروی شناور. در سایه‌ها، سایه‌های محو موجودات که در جهت مخالف جاذبه شنا می‌کنند.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد شفت می‌شود. باید از پایین به بالا برود. اما جاذبه عادی است و سکوها دور از دسترس.
+لایه‌ی ۲ — مانع اول
+
+بازیکن سعی می‌کند از سکوها بالا برود. اما سکوها خیلی دورند. نمی‌تواند بپرد.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه دو پنل هندسی در کف و سقف می‌شود. اگر روی پنل کف بایستد، جاذبه معکوس می‌شود و بازیکن به سقف پرت می‌شود. اگر روی پنل سقف بایستد، جاذبه دوباره عادی می‌شود. بازیکن می‌تواند با پرش بین این دو پنل، به سکوهای بالایی برسد.
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن روی پنل کف می‌پرد. جاذبه معکوس می‌شود. اما خیلی سریع به سقف می‌خورد و آسیب می‌بیند. باید زمان‌بندی را یاد بگیرد: در لحظه‌ای که جاذبه معکوس می‌شود، باید به سمت سکوی بعدی بپرد.
+لایه‌ی ۵ — پیچیدگی دوم
+
+بازیکن متوجه می‌شود که جسم کروی شناور در میانه‌ی شفت، با تغییر جاذبه جابه‌جا می‌شود. اگر بازیکن روی آن بایستد، با آن حرکت می‌کند. اما موجودات هم از آن استفاده می‌کنند. بازیکن باید بین استفاده از جسم و فرار از موجودات تعادل برقرار کند.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید: ۱) روی پنل کف بایستد تا جاذبه معکوس شود، ۲) در لحظه‌ی مناسب به سمت جسم کروی بپرد، ۳) روی جسم بایستد تا به سکوی بعدی برسد، ۴) این چرخه را سه بار تکرار کند تا به بالای شفت برسد. هر بار، موجودات نزدیک‌تر می‌شوند.
+لایه‌ی ۷ — پیامد
+
+بازیکن به بالای شفت می‌رسد. اما وقتی به بالا نگاه می‌کند، متوجه می‌شود که سقف شفت یک دریچه به اتاق ملکه است. و ملکه از بالا به او نگاه می‌کند. اولین برخورد بصری با ملکه.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit floating in the middle of a vast vertical shaft, gravity shifting as geometric platforms alternate between floor and ceiling. Two geometric panels with small lights on the floor and ceiling. A spherical object floating in the center. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: a single cold white beam from above, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: a tall cylindrical shaft, simple rectangular platforms on both ends, thin geometric cables connecting them. Faint silhouettes of creatures floating in the opposite direction in the fog, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

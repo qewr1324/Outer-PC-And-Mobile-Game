@@ -1,0 +1,17 @@
+🎯 لایه‌ی بیرونی — معمای اصلی ۳: دریچه‌ی ورودی
+
+۴ فرعی:
+
+    دکمه‌ی ساده — یک دکمه، یک در
+
+    دو دکمه — ترتیب نورها
+
+    الگوی چشمک‌زن — حفظ الگو
+
+    پنل مخفی — کشف پنل زیر بلوک
+
+پرامپت چهارپنلی:
+
+    A 2x2 grid of four isometric 3D puzzle scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure pressing a single circular button on a pillar, one light turning on above a door. Top-right: the figure standing between two pillars with buttons, two doors with lights, only one lit. Bottom-left: the figure watching a blinking light pattern above three doors. Bottom-right: the figure pushing a heavy block off a hidden panel, revealing a faint light underneath. Each panel is a separate room, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+

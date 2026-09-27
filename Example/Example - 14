@@ -1,0 +1,21 @@
+Prompt (English):
+
+    A tiny lone figure in a simple spacesuit standing at the entrance of a vast throne chamber. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: a single massive cold bioluminescent glow from the center, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and faint green tones. Minimalist composition: a large smooth organic throne-like structure, simple tendrils connecting to the walls, spherical pods surrounding it. Faint silhouettes of many creatures kneeling or standing motionless around the throne, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+Negative prompt:
+
+    texture, noise, detail map, normal map, roughness map, albedo texture, intricate details, clutter, props, bright colors, cartoon, anime, UI, text, HUD, gore, low contrast, flat lighting, crowded scene, cute creatures, realistic materials, metal scratches, rust, fabric weave, complex geometry, organic texture, slime, wet surface, blood
+
+توضیح فارسی:
+
+    صحنه: اتاق ملکه با یک ساختار عظیم ارگانیک شبیه تخت، تاندون‌های ساده متصل به دیوارها، و پادهای کروی اطراف آن.
+
+    شخصیت: تکنسین تنها با لباس فضایی، در ورودی اتاق.
+
+    دوربین: ایزومتریک از راه دور، سه‌بعدی.
+
+    سبک: سیاه‌وسفید با ته‌رنگ آبی سرد و سبز محو، پرکنتراست، مه حجمی، بدون تکسچر.
+
+    موجودات: سایه‌های محو که بی‌حرکت اطراف تخت ایستاده‌اند، بدون جزئیات.
+
+    حس: سکوت، تنهایی، اتمسفر مقدس و تهدیدآمیز، بدون رابط کاربری.

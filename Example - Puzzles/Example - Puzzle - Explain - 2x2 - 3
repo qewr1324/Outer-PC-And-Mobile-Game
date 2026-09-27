@@ -1,0 +1,15 @@
+🎯 لایه‌ی میانی — معمای اصلی ۴: انحراف با صدا
+
+۴ فرعی:
+
+    ضربه به لوله — تولید صدا
+
+    بلوک روی لوله — صدای مداوم
+
+    قدم بی‌صدا — حرکت آرام
+
+    تقلید اول — موجود صدا را تکرار می‌کند
+
+پرامپت چهارپنلی:
+
+    A 2x2 grid of four isometric 3D puzzle scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and faint green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure striking a thin metal pipe on a wall, producing a sharp sound. Top-right: the figure pushing a heavy rectangular block onto the pipe to create continuous noise. Bottom-left: the figure walking slowly and silently on metal panels. Bottom-right: a faint creature silhouette mimicking the figure's sound from the opposite direction. Each panel is a separate room, clean and minimal. Wide shot, 16:9. --ar 16:9

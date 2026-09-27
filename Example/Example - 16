@@ -1,0 +1,23 @@
+Prompt (English):
+
+    A tiny lone figure in a simple spacesuit standing at the center of a vast silent chamber, facing two paths: one leading into bright cold light, the other into deep organic darkness. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: a cold white glow from one side, a faint green bioluminescent glow from the other, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and green tones. Minimalist composition: a simple circular platform, two geometric archways, thin catwalks leading outward. Faint silhouettes of creatures watching from the fog on both sides, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+Negative prompt:
+
+    texture, noise, detail map, normal map, roughness map, albedo texture, intricate details, clutter, props, bright colors, cartoon, anime, UI, text, HUD, gore, low contrast, flat lighting, crowded scene, cute creatures, realistic materials, metal scratches, rust, fabric weave, complex geometry, organic texture, slime, wet surface, blood
+
+توضیح فارسی:
+
+    صحنه: یک سکوی دایره‌ای ساده در مرکز، دو طاق هندسی که یکی به نور سرد و دیگری به تاریکی ارگانیک منتهی می‌شود.
+
+    شخصیت: تکنسین تنها با لباس فضایی، در مرکز صحنه.
+
+    دوربین: ایزومتریک از راه دور، سه‌بعدی.
+
+    سبک: سیاه‌وسفید با ته‌رنگ آبی سرد و سبز محو، پرکنتراست، مه حجمی، بدون تکسچر.
+
+    موجودات: سایه‌های محو که از هر دو طرف تماشا می‌کنند، بدون جزئیات.
+
+    حس: سکوت، تنهایی، اتمسفر سنگین و سرنوشت‌ساز، بدون رابط کاربری.
+
+

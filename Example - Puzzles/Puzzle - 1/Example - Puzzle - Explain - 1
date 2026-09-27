@@ -1,0 +1,30 @@
+🎯 معمای ۲: تونل چرخان (نسخه‌ی عمیق)
+چیدمان اتاق
+
+یک تونل استوانه‌ای عظیم که به‌آرامی می‌چرخد. در دیواره‌ی داخلی، سه سکوی مستطیلی در سه زاویه‌ی مختلف قرار دارند. در انتهای تونل، دری بسته است. در کف تونل، یک جسم سنگین گرد قرار دارد. موجوداتی در جهت مخالف چرخش، روی سقف می‌خزند.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد می‌شود. تونل می‌چرخد. سکوها یکی‌یکی بالا و پایین می‌روند. بازیکن باید از سکوی اول به دوم، و بعد به در برسد.
+لایه‌ی ۲ — مانع اول
+
+بازیکن روی سکوی اول می‌پرد. تونل می‌چرخد. سکوی دوم از دسترس خارج می‌شود. بازیکن باید صبر کند تا سکوی دوم برگردد.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه می‌شود که جسم سنگین گرد در کف تونل، با چرخش تونل جابه‌جا می‌شود. اگر بازیکن روی آن بایستد، با آن حرکت می‌کند و به سکوی دوم می‌رسد.
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن روی جسم می‌پرد. اما جسم در جهت مخالف می‌غلتد و بازیکن به کف تونل پرت می‌شود. بازیکن باید زمان‌بندی را یاد بگیرد: فقط در لحظه‌ای که جسم به سمت سکوی دوم می‌رود، روی آن بپرد.
+لایه‌ی ۵ — پیچیدگی دوم
+
+وقتی بازیکن به سکوی دوم می‌رسد، متوجه می‌شود که درِ خروجی با چرخش تونل باز و بسته می‌شود. فقط در یک زاویه‌ی خاص باز است. بازیکن باید روی سکوی دوم بماند و صبر کند تا در باز شود.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید سه کار را هماهنگ کند: ۱) روی جسم بپرد، ۲) در لحظه‌ی درست به سکوی دوم بجهد، ۳) از سکوی دوم به در بپرد وقتی باز است. این یک ترکیب زمان‌بندی و فیزیک است.
+لایه‌ی ۷ — پیامد
+
+در باز می‌شود. اما در همان لحظه، یکی از موجودات روی سقف به سمت بازیکن می‌خزد. بازیکن باید سریع از در عبور کند. اولین باری که یک موجود واقعاً نزدیک می‌شود.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit standing on a slowly rotating cylindrical tunnel wall. Three rectangular platforms at different angles on the inner wall, a heavy spherical object rolling along the bottom, a closed circular door at the far end. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: faint cold white strips along the tunnel walls, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: clean geometric shapes, no clutter. Faint silhouettes of creatures crawling on the ceiling in the opposite direction, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

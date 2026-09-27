@@ -1,0 +1,30 @@
+🎯 معمای ۷: تاریکی مطلق (نسخه‌ی عمیق)
+چیدمان اتاق
+
+یک اتاق بزرگ و کاملاً تاریک. هیچ نوری وجود ندارد. فقط بازیکن می‌داند که چند مانع هندسی در فضا پخش شده‌اند. در گوشه‌ی اتاق، یک کره‌ی کوچک درخشان روی زمین افتاده. در انتهای اتاق، دری بسته. در تاریکی، سایه‌های محو موجودات که فقط با صدا قابل تشخیص‌اند.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد تاریکی می‌شود. هیچ چیز نمی‌بیند. باید راهی برای دیدن پیدا کند.
+لایه‌ی ۲ — مانع اول
+
+بازیکن چند قدم برمی‌دارد. به یک مانع برخورد می‌کند. نمی‌داند کجاست. باید راهی برای دیدن پیدا کند.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه کره‌ی کوچک درخشان روی زمین می‌شود. اگر آن را بردارد، نور بسیار ضعیفی تولید می‌کند. اما کافی نیست. بازیکن باید کره را پرتاب کند. وقتی کره به دیوار می‌خورد، صدایی تولید می‌کند و برای لحظه‌ای، لبه‌های موانع با نور آبی سرد روشن می‌شوند.
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن کره را پرتاب می‌کند. موانع برای لحظه‌ای روشن می‌شوند. اما کره دور می‌افتد. بازیکن باید به سمت صدا برود، کره را پیدا کند، و دوباره پرتاب کند. هر پرتاب، یک نقشه‌ی ذهنی از اتاق می‌سازد. اما هر صدا، موجودات را جذب می‌کند.
+لایه‌ی ۵ — پیچیدگی دوم
+
+بازیکن متوجه می‌شود که موجودات در تاریکی می‌بینند. او نمی‌بیند، اما آن‌ها می‌بینند. هر بار که بازیکن صدا تولید می‌کند، موجودات به سمت او می‌آیند. بازیکن باید بین دیدن و دیده شدن تعادل برقرار کند.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید: ۱) کره را در جهت اشتباه پرتاب کند تا موجودات را فریب دهد، ۲) در جهت مخالف حرکت کند، ۳) از حافظه‌ی نقشه‌ی قبلی استفاده کند تا بدون صدا به در برسد، ۴) در لحظه‌ی مناسب در را باز کند.
+لایه‌ی ۷ — پیامد
+
+بازیکن به در می‌رسد. در را باز می‌کند. اما وقتی در باز می‌شود، نور از اتاق بعدی وارد می‌شود و بازیکن برای اولین بار می‌بیند که موجودات چقدر نزدیک بوده‌اند. آن‌ها درست پشت سرش ایستاده بودند. این ترسناک‌ترین لحظه‌ی پرده‌ی سوم است.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit standing in absolute darkness, only faint outlines of geometric obstacles visible by the soft glow of a small thrown sphere on the floor. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: almost no light, only a tiny cold blue glow from a small sphere on the floor, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: vague rectangular blocks, simple cylindrical pillars, thin geometric cables hanging in darkness. Faint silhouettes of creatures barely visible at the edges of the tiny light, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

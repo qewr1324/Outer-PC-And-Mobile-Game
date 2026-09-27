@@ -1,0 +1,15 @@
+🎯 لایه‌ی بیرونی — معمای اصلی ۲: تونل چرخان
+
+۴ فرعی:
+
+    پرش ساده — دو سکو
+
+    جسم گرد — حرکت با چرخش
+
+    در زمان‌بندی‌شده — صبر برای در
+
+    سکوی متحرک — سکویی که با چرخش جابه‌جا می‌شود
+
+پرامپت چهارپنلی:
+
+    A 2x2 grid of four isometric 3D puzzle scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure jumping between two rectangular platforms inside a small rotating cylindrical tunnel. Top-right: the figure standing on a heavy spherical object rolling along the bottom of a rotating tunnel. Bottom-left: the figure waiting on a platform for a circular door to align and open. Bottom-right: the figure riding a moving platform as it shifts with the tunnel rotation. Each panel is a separate room, clean and minimal. Wide shot, 16:9. --ar 16:9

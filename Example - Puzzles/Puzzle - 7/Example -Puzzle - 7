@@ -1,0 +1,21 @@
+🎯 معمای ۸: جاذبه‌ی معکوس
+
+ایده: برای رسیدن به اتاق ملکه، بازیکن باید از یک شکاف عمیق عبور کند که سقف و کف آن به‌طور متناوب جاذبه را عوض می‌کنند. در یک لحظه، کف زمین است؛ در لحظه‌ی بعد، سقف. بازیکن باید از این چرخه استفاده کند تا از سکوهایی که حالا روی سقف قرار دارند، بالا برود. موجودات داخل شکاف، در جهت جاذبه‌ی مخالف شنا می‌کنند.
+
+مکانیک: جاذبه‌ی چرخشی، زمان‌بندی دقیق، حرکت در سه بعد.
+
+پرامپت تصویری:
+
+    A tiny lone figure in a simple spacesuit floating in the middle of a vast vertical shaft, gravity shifting as geometric platforms alternate between floor and ceiling. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: a single cold white beam from above, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: a tall cylindrical shaft, simple rectangular platforms on both ends, thin geometric cables connecting them. Faint silhouettes of creatures floating in the opposite direction in the fog, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+توضیح فارسی:
+
+    صحنه: یک شفت عمودی بلند استوانه‌ای، سکوهای مستطیلی ساده که بین کف و سقف جابه‌جا می‌شوند، کابل‌های هندسی نازک.
+
+    شخصیت: تکنسین شناور در میانه‌ی شفت، در حال هماهنگی با تغییر جاذبه.
+
+    موجودات: سایه‌های محو که در جهت مخالف جاذبه شنا می‌کنند.
+
+    حس: سرگیجه، عدم تعادل، اتمسفر بی‌وزنی و ترسناک.
+
+

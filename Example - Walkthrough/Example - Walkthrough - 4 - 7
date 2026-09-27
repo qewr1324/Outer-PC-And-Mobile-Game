@@ -1,0 +1,42 @@
+🎬 لایه‌ی بیرونی — سکانس‌های ۵ تا ۸
+سکانس ۵: تونل چرخان (The Rotating Tunnel)
+
+نوع: معما — تونل چرخان
+محیط: بازیکن از دریچه عبور می‌کند و وارد یک تونل استوانه‌ای عظیم می‌شود. تونل به‌آرامی می‌چرخد. سه سکو در زوایای مختلف. یک جسم گرد در کف. در انتها، دری بسته. موجوداتی در جهت مخالف روی سقف می‌خزند.
+اتفاقات: بازیکن معمای اصلی ۲ را حل می‌کند. چهار فرعی. در پایان، در باز می‌شود و یک موجود نزدیک‌تر می‌شود.
+حس: سرگیجه، عدم تعادل، خطر فزاینده.
+سکانس ۶: راهروی ماشین‌ها (The Machine Corridor)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: بازیکن از تونل خارج می‌شود و وارد یک راهروی صنعتی می‌شود. ماشین‌های عظیم، چرخ‌دنده‌های ساکن، لوله‌های بخار. روی دیوار، نقشه‌ی ایستگاه با سه لایه‌ی مشخص. یک لاگ صوتی دیگر: «سیگنال از اعماق می‌آید. ما فکر کردیم پیام است.»
+اتفاقات: بازیکن راه می‌رود. از کنار ماشین‌ها می‌گذرد. به یک پنجره‌ی کوچک نگاه می‌کند و لایه‌ی میانی را از دور می‌بیند — سبز و زنده.
+حس: کنجکاوی، پیش‌بینی، ترس از ناشناخته.
+سکانس ۷: اتاق دریچه (The Gate Chamber)
+
+نوع: معما — دریچه‌ی ورودی
+محیط: بازیکن وارد اتاق تاریک بزرگی می‌شود. سه درِ هندسی در سه ضلع. بالای هر در، یک نور کوچک. سه ستون با دکمه‌ها. یک بلوک سنگین در گوشه. سایه‌های موجودات در تاریکی.
+اتفاقات: بازیکن معمای اصلی ۳ را حل می‌کند. چهار فرعی. در پایان، هر سه در باز می‌شوند. اما همه به یک جا ختم می‌شوند.
+حس: تعلیق، حافظه، توهم انتخاب.
+سکانس ۸: فرود (The Descent)
+
+نوع: انتقال — راه رفتن
+محیط: بازیکن یکی از درها را انتخاب می‌کند و وارد یک آسانسور صنعتی می‌شود. آسانسور آرام پایین می‌رود. نور از آبی سرد به سبز محو تغییر می‌کند. دیوارها کم‌کم بافت ارگانیک می‌گیرند. در انتها، دری به لایه‌ی میانی.
+اتفاقات: بازیکن در آسانسور ایستاده. صدای آسانسور. نور تغییر می‌کند. یک لاگ صوتی آخر: «آن‌ها صداها را تقلید می‌کنند. به صدای کمک گوش ندهید.» در باز می‌شود.
+حس: فروپاشی، تغییر، ورود به ناشناخته.
+
+پرامپت تصویری (چهارپنلی):
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and faint green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit inside a large rotating cylindrical tunnel, three platforms at different angles, a spherical object rolling on the bottom, a closed door at the end, faint creature silhouettes on the ceiling. Top-right: the figure walking through an industrial corridor with giant dormant machines, gears, steam pipes, a station map on the wall showing three layers, a small window revealing a distant green organic layer. Bottom-left: the figure in a dark gate chamber with three geometric doors, three pillars with buttons, a heavy block in the corner, faint creature shadows. Bottom-right: the figure inside a descending industrial elevator, light shifting from cold blue to faint green, walls slowly becoming organic, a door opening at the bottom. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+🎬 جمع‌بندی لایه‌ی بیرونی (۸ سکانس)
+سکانس	نوع	محیط	معما
+۱	راه رفتن	ورود به بدنه	—
+۲	راه رفتن	بدنه‌ی خاموش	—
+۳	معما	قبرستان پنل	اصلی ۱
+۴	انتقال	ورود به ایستگاه	—
+۵	معما	تونل چرخان	اصلی ۲
+۶	راه رفتن	راهروی ماشین‌ها	—
+۷	معما	اتاق دریچه	اصلی ۳
+۸	انتقال	فرود	—
+
+نکته‌ی مهم: بین هر معما، حداقل یک سکانس راه رفتن و محیط‌سازی هست. این همان ریتم Inside است: تنش، آرامش، تنش، آرامش.

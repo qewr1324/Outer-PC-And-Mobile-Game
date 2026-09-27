@@ -1,0 +1,32 @@
+برویم سراغ لانه — آخرین لایه. اینجا دیگر هیچ فلزی نیست. همه‌چیز زنده است. نور سبز و آبی، دیوارهای نفس‌کش، و ملکه در انتظار.
+🎬 لانه — سکانس‌های ۱ تا ۴
+سکانس ۱: ورود به لانه (Entering the Nest)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: دریچه‌ی ارگانیک مانند دهانی باز می‌شود و بازیکن وارد می‌شود. فضایی عظیم و تاریک. دیوارها از بافت زنده ساخته شده‌اند — نرم، مرطوب، با رگه‌های سبز درخشان. کف مانند غشایی است که با هر قدم آرام فرو می‌رود. سقف آن‌قدر بالا است که دیده نمی‌شود. در دوردست، صدای ضربان قلب عظیم و آواز جمعی همسرایان.
+اتفاقات: بازیکن چند قدم برمی‌دارد. کف زیر پایش نفس می‌کشد. دیوارها آرام باز و بسته می‌شوند. بازیکن مکث می‌کند. به دیوار نزدیک می‌شود. دستش را روی آن می‌گذارد. دیوار گرم است. یک لاگ صوتی آخر: «ما به آن‌ها گوش دادیم. آن‌ها به ما گوش دادند. حالا ما بخشی از آن‌هاییم.»
+حس: هیبت، ترس، تسلیم آرام.
+سکانس ۲: راهروی استخوان (The Bone Corridor)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: بازیکن وارد راهرویی باریک می‌شود که دیوارهایش از ساختارهای استخوان‌مانند ساخته شده‌اند. سفید، سرد، اما زنده. بین استخوان‌ها، غشاهای نازک با رگه‌های سبز. روی زمین، بقایای لباس‌های فضایی خدمه — کلاه‌خود، دستکش، چکمه. جسدها نیستند. فقط لباس‌ها. انگار بدن‌ها آب شده‌اند.
+اتفاقات: بازیکن از کنار لباس‌ها می‌گذرد. یک کلاه‌خود را برمی‌دارد. داخلش تاریک است. رهایش می‌کند. صدای آواز جمعی نزدیک‌تر می‌شود. در انتهای راهرو، یک اتاق تاریک.
+حس: اندوه، رمز و راز، وحشت آرام.
+سکانس ۳: تاریکی مطلق (Absolute Darkness)
+
+نوع: معما — تاریکی مطلق (اصلی ۷)
+محیط: بازیکن وارد اتاقی می‌شود که هیچ نوری ندارد. تاریکی مطلق. فقط یک کره‌ی کوچک درخشان روی زمین. موانع هندسی در فضا پخش شده‌اند. در انتها، دری بسته. موجودات در تاریکی می‌بینند — بازیکن نمی‌بیند.
+اتفاقات: بازیکن معمای اصلی ۷ را حل می‌کند. چهار فرعی. در پایان، در باز می‌شود. نور از اتاق بعدی وارد می‌شود. بازیکن برای اولین بار می‌بیند که موجودات چقدر نزدیک بوده‌اند — درست پشت سرش ایستاده بودند.
+حس: وحشت، تعلیق، کشف.
+سکانس ۴: شفت عمودی (The Vertical Shaft)
+
+نوع: انتقال — راه رفتن
+محیط: بازیکن از اتاق تاریکی خارج می‌شود و وارد یک شفت عمودی عظیم می‌شود. شفت آن‌قدر بلند است که بالایش در مه گم می‌شود. دیوارها ارگانیک و نفس‌کش. سکوهای مستطیلی در سه سطح. در کف و سقف شفت، دو پنل هندسی با چراغ‌های کوچک. در میانه، یک جسم کروی شناور. موجودات در جهت مخالف جاذبه شنا می‌کنند.
+اتفاقات: بازیکن به پایین نگاه می‌کند. عمق. به بالا نگاه می‌کند. ملکه از بالا به او نگاه می‌کند — برای اولین بار، یک سایه‌ی عظیم در بالای شفت. بازیکن باید بالا برود. اما جاذبه عادی است.
+حس: هیبت، کوچکی، اراده.
+
+پرامپت تصویری (چهارپنلی):
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit entering a vast dark organic nest through a mouth-like hatch, living walls with glowing green veins, soft wet floor, distant heartbeat and choir. Top-right: the figure walking through a narrow bone-like corridor, walls made of white skeletal structures, thin glowing membranes between them, abandoned spacesuits and helmets on the floor, no bodies. Bottom-left: the figure in absolute darkness, only a tiny glowing sphere on the floor revealing faint geometric obstacles, a closed door at the far end, faint creature silhouettes barely visible. Bottom-right: the figure standing at the bottom of a vast vertical organic shaft, tall platforms at different levels, two geometric panels on floor and ceiling, a floating spherical object in the center, a massive shadow of the Queen watching from above. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+

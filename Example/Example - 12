@@ -1,0 +1,21 @@
+Prompt (English):
+
+    A tiny lone figure in a simple spacesuit hiding behind a geometric pillar in a vast feeding chamber. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: dim bioluminescent cold glow from organic veins on the walls, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and faint green tones. Minimalist composition: large smooth organic pods, simple tendrils, spherical sacs hanging from the ceiling. Faint silhouettes of multiple creatures feeding in the fog, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+Negative prompt:
+
+    texture, noise, detail map, normal map, roughness map, albedo texture, intricate details, clutter, props, bright colors, cartoon, anime, UI, text, HUD, gore, low contrast, flat lighting, crowded scene, cute creatures, realistic materials, metal scratches, rust, fabric weave, complex geometry, organic texture, slime, wet surface, blood
+
+توضیح فارسی:
+
+    صحنه: اتاق تغذیه با پادهای ارگانیک نرم، تاندون‌های ساده، و کیسه‌های کروی آویزان از سقف.
+
+    شخصیت: تکنسین تنها با لباس فضایی، پنهان پشت یک ستون هندسی.
+
+    دوربین: ایزومتریک از راه دور، سه‌بعدی.
+
+    سبک: سیاه‌وسفید با ته‌رنگ آبی سرد و سبز محو، پرکنتراست، مه حجمی، بدون تکسچر.
+
+    موجودات: سایه‌های محو که در حال تغذیه‌اند، بدون جزئیات.
+
+    حس: سکوت، تنهایی، اتمسفر خفه‌کننده و تهدیدآمیز، بدون رابط کاربری.

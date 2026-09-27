@@ -1,0 +1,17 @@
+🎯 لایه‌ی بیرونی — معمای اصلی ۱: پنل خورشیدی شکسته
+
+۴ فرعی:
+
+    آینه‌ی چرخان — چرخاندن یک آینه
+
+    بلوک روی کابل — نگه داشتن مکانیزم با وزن
+
+    زنجیره‌ی نوری — ترکیب دو آینه
+
+    گیرنده‌ی مخفی — کشف گیرنده‌ی دوم
+
+پرامپت چهارپنلی:
+
+    A 2x2 grid of four isometric 3D puzzle scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure rotating a single mirror to reflect a cold white light beam toward a small receiver. Top-right: the figure pushing a heavy rectangular block onto a thin cable to hold down a hanging mirror. Bottom-left: the figure aligning two mirrors in a chain to guide light toward a circular receiver. Bottom-right: the figure discovering a hidden second receiver behind a geometric panel. Each panel is a separate room, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+

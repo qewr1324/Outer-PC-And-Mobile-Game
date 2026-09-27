@@ -1,0 +1,63 @@
+🎬 لانه — سکانس‌های ۵ تا ۸
+سکانس ۵: جاذبه‌ی معکوس (Reverse Gravity)
+
+نوع: معما — جاذبه‌ی معکوس (اصلی ۸)
+محیط: همان شفت عمودی. بازیکن باید از پنل کف و سقف استفاده کند تا جاذبه را معکوس کند و به بالا برسد. سکوها در سه سطح. جسم کروی شناور در میانه. موجودات در جهت مخالف شنا می‌کنند.
+اتفاقات: بازیکن معمای اصلی ۸ را حل می‌کند. چهار فرعی. در پایان، به بالای شفت می‌رسد. سقف شفت یک دریچه به اتاق ملکه است. ملکه از بالا نگاه می‌کند. اولین برخورد بصری کامل.
+حس: سرگیجه، تعلیق، هیبت.
+سکانس ۶: نزدیک شدن (The Approach)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: بازیکن از دریچه وارد یک راهروی کوتاه می‌شود. راهرو به سمت اتاق ملکه شیب ملایمی دارد. دیوارها کاملاً زنده. رگه‌های نوری مانند نبض. آواز جمعی همسرایان حالا نزدیک و واضح است — بدون کلام، فقط زمزمه. در انتهای راهرو، نور سبز و آبی عظیمی می‌تابد.
+اتفاقات: بازیکن راه می‌رود. هر قدم، آواز بلندتر. هر قدم، نور شدیدتر. بازیکن به انتهای راهرو می‌رسد. برای لحظه‌ای مکث می‌کند. سپس وارد می‌شود.
+حس: تقدس، ترس، آماده‌سازی.
+سکانس ۷: انتخاب نهایی (The Final Choice)
+
+نوع: معما — انتخاب نهایی (اصلی ۹)
+محیط: اتاق ملکه. فضایی عظیم ارگانیک. در مرکز، کره‌ی ارگانیک عظیم شناور (ملکه). سه گره‌ی نوری روی ستون‌های نازک. یک سکوی دایره‌ای در مرکز. دو مسیر: یکی به سمت ملکه، یکی به سمت گره‌ها. سایه‌های همسرایان در اطراف، بی‌حرکت.
+اتفاقات: بازیکن معمای اصلی ۹ را حل می‌کند. چهار فرعی. سپس انتخاب نهایی: ادغام، نابودی، یا ماندن. هر انتخاب، یک پایان متفاوت.
+حس: تقدس، سرنوشت، سکوت.
+سکانس ۸: پس از انتخاب (Aftermath)
+
+نوع: انتقال — پایان
+محیط: بسته به انتخاب بازیکن:
+
+    ادغام: اتاق در نور سبز محو می‌شود. بازیکن بخشی از ملکه شده. دوربین عقب می‌کشد. ایستگاه در سکوت فضا شناور است. هسته می‌تپد.
+
+    نابودی: ملکه فریاد می‌کشد. موجودات هجوم می‌آورند. هسته می‌شکند. نور سفید خیره‌کننده. انفجار نرم. سکوت.
+
+    ماندن: هیچ‌کس حرکت نمی‌کند. ملکه و بازیکن بی‌حرکت. موجودات بی‌حرکت. سکوت مطلق. دوربین آرام عقب می‌کشد. تیتراژ.
+    اتفاقات: تیتراژ پایانی. پیانوی تنها. سپس صفحه سیاه. چند ثانیه سکوت. سپس یک صدای نفس کشیدن آرام. اتاق بیمارستان. خط صاف مانیتور. عکس کوچک ایستگاه روی دیوار.
+    حس: ابهام، ماندگاری، شوک.
+
+پرامپت تصویری (چهارپنلی):
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit floating in a vast vertical shaft, gravity shifting as geometric platforms alternate between floor and ceiling, a floating sphere in the center, faint creature silhouettes drifting. Top-right: the figure walking through a short organic corridor sloping gently toward a massive green-blue light, living walls with pulsing veins, distant wordless choir. Bottom-left: the figure standing at the center of a vast organic throne chamber, a massive floating organic core, three glowing nodes on thin pillars, two paths, faint motionless creature silhouettes surrounding. Bottom-right: the figure motionless at the center as the core and creatures are also completely still, absolute silence, camera slowly pulling back. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+🎬 جمع‌بندی لانه (۸ سکانس)
+سکانس	نوع	محیط	معما
+۱	راه رفتن	ورود به لانه	—
+۲	راه رفتن	راهروی استخوان	—
+۳	معما	تاریکی مطلق	اصلی ۷
+۴	انتقال	شفت عمودی	—
+۵	معما	جاذبه‌ی معکوس	اصلی ۸
+۶	راه رفتن	نزدیک شدن	—
+۷	معما	انتخاب نهایی	اصلی ۹
+۸	انتقال	پس از انتخاب	—
+🎯 جمع‌بندی کل بازی — ۲۴ سکانس
+لایه	سکانس‌ها	معماها	تصاویر
+بیرونی	۸	۳ اصلی + ۱۲ فرعی	۲ چهارپنلی
+میانی	۸	۳ اصلی + ۱۲ فرعی	۲ چهارپنلی
+لانه	۸	۳ اصلی + ۱۲ فرعی	۲ چهارپنلی
+جمع	۲۴	۹ اصلی + ۳۶ فرعی	۶ چهارپنلی
+
+ریتم کلی بازی:
+
+    راه رفتن → محیط → معما → انتقال
+
+    راه رفتن → محیط → معما → انتقال
+
+    راه رفتن → محیط → معما → پایان
+
+این دقیقاً همان ریتم Inside است: تنش، آرامش، تنش، آرامش. بازیکن هرگز بیش از ۸–۱۰ دقیقه در تنش مداوم نیست. بین هر معما، فضا برای نفس کشیدن، کشف محیط، و هضم داستان.
+

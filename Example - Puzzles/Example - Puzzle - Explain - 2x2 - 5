@@ -1,0 +1,17 @@
+🎯 لایه‌ی میانی — معمای اصلی ۶: تقلید صدا
+
+۴ فرعی:
+
+    پژواک قدم — صدا برمی‌گردد
+
+    فریب اول — تولید صدا در جهت اشتباه
+
+    پنل حساس — ایستادن روی پنل بی‌صدا
+
+    تقلید پیشرفته — موجود خودش صدا می‌سازد
+
+پرامپت چهارپنلی:
+
+    A 2x2 grid of four isometric 3D puzzle scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and faint green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure standing on a metal floor, sound echoing back from the walls. Top-right: the figure producing a sound in one direction while moving in the opposite direction. Bottom-left: the figure standing still on a specific floor panel that absorbs sound. Bottom-right: a faint creature silhouette producing its own sound without mimicking, deeper and more menacing. Each panel is a separate room, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+

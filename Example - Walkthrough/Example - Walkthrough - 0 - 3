@@ -1,0 +1,32 @@
+دقیقاً همان کاری که Inside می‌کند. بین معماها، سکوت، راه رفتن، و محیط هست. اینجا کل مسیر بازی را سکانس‌به‌سکانس می‌سازم — از لحظه‌ی ورود تا پایین رفتن به لایه‌ی بعد. هر ۴ سکانس، یک تصویر چهارپنلی.
+🎬 لایه‌ی بیرونی — سکانس‌های ۱ تا ۴
+سکانس ۱: ورود (The Arrival)
+
+نوع: راه رفتن — بدون معما
+محیط: یک کپسول کوچک فضایی به بدنه‌ی ایستگاه می‌چسبد. بازیکن از کپسول بیرون می‌آید. برای اولین بار، عظمت ایستگاه را می‌بیند: ساختاری عظیم و تاریک که در سکوت فضا شناور است. ستاره‌ها سرد و دورند. یک سیاره‌ی مرده در افق.
+اتفاقات: بازیکن چند قدم روی بدنه برمی‌دارد. صدای قدم‌ها روی فلز سرد. باد خفیف فضایی. هیچ موجودی نیست. فقط سکوت.
+حس: تنهایی مطلق، عظمت، اضطراب آرام.
+سکانس ۲: بدنه‌ی خاموش (The Silent Hull)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: بازیکن در امتداد بدنه راه می‌رود. تجهیزات متروکه، یک لباس فضایی خالی که در فضا شناور است، پنل‌های شکسته، کابل‌های پاره. روی بدنه، آثار یک struggle قدیمی: خط‌وخش، جای دست، یک کلاه‌خود شکسته.
+اتفاقات: بازیکن از کنار لباس خالی می‌گذرد. برای لحظه‌ای توقف می‌کند. سپس ادامه می‌دهد. هیچ دشمنی نیست. فقط نشانه‌ها.
+حس: اندوه، رمز و راز، اولین نشانه‌ی فاجعه.
+سکانس ۳: قبرستان پنل‌ها (Solar Panel Graveyard)
+
+نوع: معما — پنل خورشیدی شکسته
+محیط: بازیکن به منطقه‌ی پنل‌های شکسته می‌رسد. سه پنل بزرگ، دو آینه، یک گیرنده. نور ضعیفی از یک پنل می‌تابد. در دوردست، سایه‌های محو موجودات که تماشا می‌کنند.
+اتفاقات: بازیکن وارد معمای اصلی ۱ می‌شود. چهار فرعی را حل می‌کند. در پایان، دریچه باز می‌شود و یکی از موجودات نزدیک‌تر می‌شود.
+حس: تمرکز، کشف، اولین نگاه خطر.
+سکانس ۴: ورود به ایستگاه (Into the Station)
+
+نوع: انتقال — راه رفتن
+محیط: بازیکن از دریچه وارد ایستگاه می‌شود. راهرویی باریک و تاریک. نور از نوارهای سقف. دیوارها فلزی و سرد. هوای راکد. در انتهای راهرو، یک دریچه‌ی بزرگ با علامت هشدار.
+اتفاقات: بازیکن راه می‌رود. صدای نفس‌هایش در راهرو می‌پیچد. یک لاگ صوتی قدیمی پخش می‌شود: «آن‌ها خطرناک نیستند. فقط کنجکاوند.» بازیکن به دریچه می‌رسد.
+حس: خفه‌شدن، تعلیق، اولین نشانه‌ی روایت.
+
+پرامپت تصویری (چهارپنلی):
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit stepping out of a small pod onto the vast outer hull of a dark space station, stars and a dead planet in the distance. Top-right: the figure walking along the hull, passing an empty floating spacesuit and broken panels, signs of a struggle. Bottom-left: the figure at a solar panel graveyard, three broken panels, two mirrors, a faint light beam, distant creature silhouettes watching. Bottom-right: the figure entering a narrow dark corridor inside the station, cold light strips on the ceiling, a large warning hatch at the end. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+

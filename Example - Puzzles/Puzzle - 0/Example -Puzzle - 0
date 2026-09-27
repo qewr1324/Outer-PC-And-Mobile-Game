@@ -1,0 +1,50 @@
+🧩 فلسفه‌ی معمای Outer
+
+معماها باید سه اصل داشته باشند:
+
+    بدون دیالوگ و بدون UI — فقط محیط، نور، صدا و فیزیک.
+
+    هر معما یک مفهوم داستانی را روایت کند — مثلاً «تقلید صدا» = فریب، «جاذبه» = بی‌ثباتی، «نور» = حقیقت.
+
+    هر معما یک مکانیک جدید معرفی کند — بعداً همان مکانیک را با پیچیدگی بیشتر تکرار کند.
+
+🏗️ ساختار کلی معماها (سه لایه)
+
+لایه‌ی بیرونی (پوسته) — معماهای فیزیکی و مکانیکی
+
+    مکانیک اصلی: نور، جاذبه، درها، پنل‌های برقی
+
+    سه معما: راه‌اندازی پنل خورشیدی، عبور از تونل چرخان، باز کردن دریچه‌ی ورودی
+
+لایه‌ی میانی (زیست‌شناسی) — معماهای بیولوژیکی و صوتی
+
+    مکانیک اصلی: صدا، تقلید، رشد ارگانیک، مایع رسانا
+
+    سه معما: انحراف موجود با صدا، استفاده از مایع به‌عنوان پل، تقلید صدای بازیکن توسط موجود
+
+لایه‌ی درونی (لانه) — معماهای ادراکی و اخلاقی
+
+    مکانیک اصلی: نور ضعیف، جاذبه‌ی معکوس، ادغام با دیوارها
+
+    سه معما: حرکت در تاریکی مطلق، معکوس کردن جاذبه برای رسیدن به ملکه، انتخاب نهایی (ادغام یا نابودی)
+
+🎯 پرده‌ی اول: لایه‌ی بیرونی ایستگاه
+معمای ۱: پنل خورشیدی شکسته
+
+ایده: بازیکن باید سه پنل شکسته را با جابه‌جا کردن آینه‌های هندسی، به سمت یک گیرنده‌ی نوری هدایت کند. موجودات از دور تماشا می‌کنند و کاری ندارند.
+
+مکانیک: چرخاندن آینه‌ها، بازتاب نور، باز شدن دریچه.
+
+پرامپت تصویری:
+
+    A tiny lone figure in a simple spacesuit standing on a vast outer hull, adjusting a large simple geometric mirror to reflect a beam of cold white light toward a distant receiver. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: a single cold white beam cutting through volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: three broken rectangular solar panels, two simple mirror shapes, a circular receiver glowing faintly. Faint silhouettes of creatures watching from far away on the hull, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+توضیح فارسی:
+
+    صحنه: سطح بیرونی ایستگاه، سه پنل شکسته، دو آینه‌ی هندسی ساده، و یک گیرنده‌ی دایره‌ای که با نور سفید سرد روشن می‌شود.
+
+    شخصیت: تکنسین در حال چرخاندن آینه برای بازتاب نور.
+
+    موجودات: سایه‌های محو که از دور تماشا می‌کنند.
+
+    حس: سکوت، تمرکز، اتمسفر سرد.

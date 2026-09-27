@@ -1,0 +1,21 @@
+🎯 معمای ۵: پل مایع
+
+ایده: بازیکن باید از یک شکاف عمیق عبور کند. هیچ پلی نیست. اما مایع سبز رنگی از بدنه‌ی موجودات مرده در کف شکاف جمع شده است. اگر بازیکن یک منبع برق را به مایع وصل کند، مایع رسانا می‌شود و یک پل نورانی موقت می‌سازد. اما این کار موجودات زنده‌ی اطراف را جذب می‌کند. بازیکن باید سریع عبور کند.
+
+مکانیک: استفاده از مایع به‌عنوان رسانا، خطر جذب موجودات، عبور سریع.
+
+پرامپت تصویری:
+
+    A tiny lone figure in a simple spacesuit standing at the edge of a deep chasm filled with glowing green liquid, connecting a simple geometric power source to the liquid with a thin cable. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: faint green bioluminescent glow from the liquid, cold blue glow from the power source, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and green tones. Minimalist composition: a deep rectangular chasm, simple cylindrical power source, thin geometric cable, a temporary bridge of light forming across the liquid. Faint silhouettes of creatures slowly approaching from the fog, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+توضیح فارسی:
+
+    صحنه: شکاف عمیق مستطیلی پر از مایع سبز درخشان، منبع برق استوانه‌ای ساده، کابل هندسی نازک، و پل نور موقت.
+
+    شخصیت: تکنسین در لبه‌ی شکاف، در حال وصل کردن کابل به مایع.
+
+    موجودات: سایه‌های محو که آرام از مه نزدیک می‌شوند.
+
+    حس: تعلیق، خطر، اتمسفر بیولوژیکی و گرم اما تهدیدآمیز.
+
+

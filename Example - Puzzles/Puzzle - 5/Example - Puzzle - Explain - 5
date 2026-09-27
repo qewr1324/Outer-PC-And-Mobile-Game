@@ -1,0 +1,30 @@
+🎯 معمای ۶: تقلید صدا (نسخه‌ی عمیق)
+چیدمان اتاق
+
+یک اتاق تاریک عظیم. در مرکز، یک قفس مستطیلی بزرگ از میله‌های ساده. داخل قفس، یک موجود بزرگ بی‌حرکت. در سمت دیگر اتاق، یک کلید دایره‌ای کوچک روی یک ستون. کف اتاق از پنل‌های فلزی است که صدا را منعکس می‌کنند. در سقف، یک نور سرد کم‌سو.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد می‌شود. قفس را می‌بیند. کلید را در سمت دیگر می‌بیند. باید کلید را بردارد و در را باز کند.
+لایه‌ی ۲ — مانع اول
+
+بازیکن قدم برمی‌دارد. صدای قدمش در اتاق می‌پیچد. موجود داخل قفس، همان صدا را از سمت مخالف تولید می‌کند. بازیکن فکر می‌کند صدا از پشت سرش آمده. برمی‌گردد. چیزی نیست. گیج می‌شود.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه می‌شود که موجود صدایش را تقلید می‌کند. اگر بازیکن عمداً صدا تولید کند، موجود همان صدا را از جهت دیگر تکرار می‌کند. بازیکن می‌تواند از این برای فریب استفاده کند.
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن سعی می‌کند با تولید صدا در یک جهت، موجود را فریب دهد و در جهت مخالف حرکت کند. اما موجود یاد می‌گیرد. بار دوم، خودش صدا را در جهت درست تولید می‌کند. بازیکن باید استراتژی را عوض کند.
+لایه‌ی ۵ — پیچیدگی دوم
+
+بازیکن متوجه می‌شود که پنل‌های کف صدا را منعکس می‌کنند. اگر روی پنل خاصی بایستد، صدایش خفه می‌شود. بازیکن باید از پنل به پنل حرکت کند تا بی‌صدا باشد. اما موجود، ارتعاش پنل‌ها را حس می‌کند. اگر بازیکن روی یک پنل بماند، موجود آن را حس می‌کند.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید ترکیبی از صدا و سکوت را مدیریت کند: ۱) یک صدا در جهت اشتباه تولید کند تا موجود را فریب دهد، ۲) سریع و بی‌صدا از پنل به پنل حرکت کند، ۳) در لحظه‌ی مناسب کلید را بردارد، ۴) قبل از اینکه موجود بفهمد، از در خارج شود.
+لایه‌ی ۷ — پیامد
+
+بازیکن کلید را برمی‌دارد و از در خارج می‌شود. اما وقتی در بسته می‌شود، موجود داخل قفس دیگر صدای بازیکن را تقلید نمی‌کند. بلکه صدای خودش را تولید می‌کند — یک صدای جدید، عمیق‌تر. انگار یاد گرفته که دیگر نیازی به تقلید نیست. این ترسناک‌ترین لحظه‌ی پرده‌ی دوم است.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit standing motionless in a vast dark chamber, facing a large rectangular cage made of simple bars in the center. A small circular key on a cylindrical pillar on the far side. The floor is made of simple geometric panels. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: dim cold white glow from a single overhead light, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and faint green tones. Minimalist composition: clean geometric shapes, no clutter. Faint silhouette of a large creature inside the cage, motionless, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

@@ -1,0 +1,21 @@
+Prompt (English):
+
+    A tiny lone figure in a simple spacesuit standing before a colossal fractured core at the heart of a dying station. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: blinding cold white light bursting from cracks in the core, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: a massive broken sphere, simple geometric shards floating around it, thin catwalks leading to its center. Faint silhouettes of creatures swarming in the fog around the core, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+Negative prompt:
+
+    texture, noise, detail map, normal map, roughness map, albedo texture, intricate details, clutter, props, bright colors, cartoon, anime, UI, text, HUD, gore, low contrast, flat lighting, crowded scene, cute creatures, realistic materials, metal scratches, rust, fabric weave, complex geometry, organic texture, slime, wet surface, blood
+
+توضیح فارسی:
+
+    صحنه: هسته‌ی نهایی، یک کره‌ی عظیم شکسته که نور از ترک‌هایش بیرون می‌زند، با تکه‌های هندسی شناور و پل‌های باریک.
+
+    شخصیت: تکنسین تنها با لباس فضایی، در برابر هسته.
+
+    دوربین: ایزومتریک از راه دور، سه‌بعدی.
+
+    سبک: سیاه‌وسفید با ته‌رنگ آبی سرد، پرکنتراست، مه حجمی، بدون تکسچر.
+
+    موجودات: سایه‌های محو که اطراف هسته ازدحام کرده‌اند، بدون جزئیات.
+
+    حس: سکوت، تنهایی، اتمسفر آخرالزمانی و مقدس، بدون رابط کاربری.

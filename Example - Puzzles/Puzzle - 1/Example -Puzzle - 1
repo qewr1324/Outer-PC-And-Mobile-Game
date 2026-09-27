@@ -1,0 +1,21 @@
+معمای ۲: تونل چرخان
+
+ایده: بازیکن وارد یک تونل می‌شود که به‌آرامی می‌چرخد. جاذبه تغییر می‌کند. باید از سکوهایی که حالا دیوار شده‌اند، بالا برود. موجودات داخل تونل، در جهت مخالف حرکت می‌کنند.
+
+مکانیک: تغییر جاذبه، راه رفتن روی دیوار، هماهنگی با چرخش.
+
+پرامپت تصویری:
+
+    A tiny lone figure in a simple spacesuit walking on the wall of a slowly rotating cylindrical tunnel. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: faint cold white strips along the tunnel walls, volumetric fog, deep shadows, monochrome black and white with subtle cold blue tones. Minimalist composition: a large cylindrical tunnel divided into geometric segments, simple rectangular platforms now acting as walls, thin cables hanging loosely. Faint silhouettes of creatures crawling in the opposite direction on the ceiling, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+توضیح فارسی:
+
+    صحنه: تونل استوانه‌ای چرخان با سگمنت‌های هندسی، سکوهای مستطیلی که حالا دیوار شده‌اند.
+
+    شخصیت: تکنسین در حال راه رفتن روی دیوار تونل.
+
+    موجودات: سایه‌های محو که در جهت مخالف روی سقف می‌خزند.
+
+    حس: سرگیجه، عدم تعادل، اتمسفر خفه‌کننده.
+
+

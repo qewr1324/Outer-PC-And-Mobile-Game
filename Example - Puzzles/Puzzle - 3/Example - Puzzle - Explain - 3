@@ -1,0 +1,30 @@
+🎯 معمای ۴: انحراف با صدا (نسخه‌ی عمیق)
+چیدمان اتاق
+
+یک راهروی باریک و طولانی با سه ستون استوانه‌ای در میانه. در انتهای راهرو، سه موجود بی‌حرکت ایستاده‌اند. در کنار بازیکن، یک بلوک سنگین مستطیلی. در دیوار سمت چپ، یک لوله‌ی فلزی نازک. در سقف، نوارهای نور سرد و کم‌سو. کف راهرو از فلز سرد.
+لایه‌ی ۱ — هدف اولیه
+
+بازیکن وارد راهرو می‌شود. موجودات در انتها ایستاده‌اند. اگر مستقیم برود، حمله می‌کنند. بازیکن باید راهی پیدا کند تا از آن‌ها رد شود.
+لایه‌ی ۲ — مانع اول
+
+بازیکن سعی می‌کند بی‌صدا حرکت کند. اما قدم‌ها روی فلز صدا می‌دهند. موجودات سرشان را کمی برمی‌گردانند. بازیکن متوقف می‌شود. باید صدای دیگری تولید کند تا حواسشان پرت شود.
+لایه‌ی ۳ — کشف
+
+بازیکن متوجه لوله‌ی فلزی روی دیوار می‌شود. اگر به آن ضربه بزند، صدای طنین‌داری تولید می‌شود. موجودات به سمت صدا برمی‌گردند. بازیکن متوجه می‌شود که صدا می‌تواند منحرف کند.
+لایه‌ی ۴ — آزمایش و شکست
+
+بازیکن به لوله ضربه می‌زند. موجودات به سمت صدا می‌روند. اما بازیکن هنوز آن‌قدر نزدیک است که وقتی موجودات برمی‌گردند، او را می‌بینند. بازیکن باید فاصله و زمان را تنظیم کند.
+لایه‌ی ۵ — پیچیدگی دوم
+
+بازیکن متوجه می‌شود که ضربه‌ی دستی کافی نیست. صدا کوتاه است. باید بلوک سنگین را به لوله هل دهد تا صدای مداوم تولید شود. اما بلوک سنگین است و هل دادن آن هم صدا دارد. بازیکن باید اول بلوک را بی‌صدا به لوله نزدیک کند، بعد رهایش کند.
+لایه‌ی ۶ — راه‌حل خلاقانه
+
+بازیکن باید سه کار را هماهنگ کند: ۱) بلوک را بی‌صدا (با قدم‌های آرام) به لوله نزدیک کند، ۲) بلوک را رها کند تا صدای مداوم تولید شود، ۳) در همان چند ثانیه، از پشت موجودات عبور کند. اگر خیلی کند باشد، صدا قطع می‌شود و موجودات برمی‌گردند.
+لایه‌ی ۷ — پیامد
+
+بازیکن از راهرو عبور می‌کند. اما وقتی به انتها می‌رسد، متوجه می‌شود که یکی از موجودات صدای لوله را تقلید می‌کند. یعنی موجودات یاد گرفته‌اند. این اولین نشانه‌ی تقلید است.
+پرامپت تصویری
+
+    A tiny lone figure in a simple spacesuit hiding behind a geometric pillar in a narrow corridor, pushing a heavy rectangular block toward a thin metal pipe on the wall. Three faint creature silhouettes standing motionless at the far end of the corridor. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: faint cold white strips along the ceiling, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and faint green tones. Minimalist composition: three cylindrical pillars, a heavy rectangular block, a thin metal pipe, clean geometric shapes, no clutter. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+

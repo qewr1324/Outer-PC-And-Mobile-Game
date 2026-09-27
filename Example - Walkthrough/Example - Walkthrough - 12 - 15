@@ -1,0 +1,43 @@
+🎬 لایه‌ی میانی — سکانس‌های ۵ تا ۸
+سکانس ۵: پل مایع (The Liquid Bridge)
+
+نوع: معما — پل مایع (اصلی ۵)
+محیط: بازیکن روی لبه‌ی شکاف ایستاده. در سمت دیگر، دری بسته. در کنار بازیکن، یک منبع برق استوانه‌ای با کابل نازک. سه پنل هندسی روی دیوارها با چراغ‌های کوچک. مایع سبز در کف شکاف. سایه‌های موجودات در اطراف.
+اتفاقات: بازیکن معمای اصلی ۵ را حل می‌کند. چهار فرعی. در پایان، مایع از شکاف بالا می‌آید و به دنبال بازیکن می‌آید. مایع زنده است.
+حس: خطر، استراتژی، ترس از تعقیب.
+سکانس ۶: اتاق قفس (The Cage Chamber)
+
+نوع: راه رفتن — محیط‌سازی
+محیط: بازیکن وارد یک اتاق تاریک عظیم می‌شود. در مرکز، یک قفس مستطیلی بزرگ از میله‌های ساده. داخل قفس، یک موجود بزرگ بی‌حرکت. در سمت دیگر اتاق، یک کلید دایره‌ای کوچک روی یک ستون. کف اتاق از پنل‌های فلزی که صدا را منعکس می‌کنند. در سقف، یک نور سرد کم‌سو.
+اتفاقات: بازیکن وارد می‌شود. قدمش صدا می‌دهد. موجود داخل قفس، همان صدا را از سمت مخالف تولید می‌کند. بازیکن می‌چرخد. چیزی نیست. گیج می‌شود. یک لاگ صوتی: «به صدای خودت گوش نده. آن‌ها از آن استفاده می‌کنند.»
+حس: سردرگمی، ترس، تعلیق.
+سکانس ۷: تقلید (The Mimicry)
+
+نوع: معما — تقلید صدا (اصلی ۶)
+محیط: همان اتاق قفس. اما حالا بازیکن می‌داند چه باید بکند. باید کلید را بردارد و از در خارج شود. اما موجود، هر بار صدایش را تقلید می‌کند و یاد می‌گیرد.
+اتفاقات: بازیکن معمای اصلی ۶ را حل می‌کند. چهار فرعی. در پایان، موجود دیگر تقلید نمی‌کند — صدای خودش را تولید می‌کند. ترسناک‌ترین لحظه‌ی لایه‌ی میانی.
+حس: وحشت، کشف، تغییر قوانین.
+سکانس ۸: ورود به لانه (Into the Nest)
+
+نوع: انتقال — راه رفتن
+محیط: بازیکن از اتاق قفس خارج می‌شود. راهرویی باریک که کاملاً ارگانیک است. دیوارها مانند روده‌ی زنده. کف نرم و مرطوب. نور سبز از درون دیوارها. در انتها، یک دریچه‌ی ارگانیک که مانند یک دهان باز می‌شود. بوی لانه.
+اتفاقات: بازیکن راه می‌رود. دیوارها آرام نفس می‌کشند. صدای آواز جمعی همسرایان از دور. یک لاگ صوتی آخر: «اگر تا اینجا آمده‌اید، دیگر برنمی‌گردید.» دریچه باز می‌شود. بازیکن وارد می‌شود.
+حس: فروپاشی، تسلیم، ورود به ناشناخته.
+
+پرامپت تصویری (چهارپنلی):
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit at the edge of a deep chasm, connecting a thin cable from a cylindrical power source to glowing green liquid, three wall panels with small lights, a temporary bridge of light forming. Top-right: the figure entering a vast dark chamber with a large rectangular cage in the center, a faint large creature inside, a small key on a pillar on the far side, metal floor panels reflecting sound. Bottom-left: the figure standing motionless in the same cage chamber, a faint creature silhouette mimicking the figure's sound from the opposite direction, the figure looking confused. Bottom-right: the figure walking through a narrow fully organic corridor, walls like living intestines, soft wet floor, green light from within, an organic mouth-like hatch opening at the end. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+🎬 جمع‌بندی لایه‌ی میانی (۸ سکانس)
+سکانس	نوع	محیط	معما
+۱	راه رفتن	فرود در تاریکی سبز	—
+۲	راه رفتن	آزمایشگاه متروک	—
+۳	معما	راهروی صدا	اصلی ۴
+۴	انتقال	شکاف سبز	—
+۵	معما	پل مایع	اصلی ۵
+۶	راه رفتن	اتاق قفس	—
+۷	معما	تقلید	اصلی ۶
+۸	انتقال	ورود به لانه	—
+
+نکته: در این لایه، بین معماها دو سکانس راه رفتن هست (۱ و ۲، ۶). این باعث می‌شود بازیکن قبل از هر معما، با محیط و موجودات آشنا شود. دقیقاً همان ریتم Inside.
+

@@ -1,0 +1,25 @@
+🎯 معمای ۹: انتخاب نهایی (ادغام یا نابودی)
+
+ایده: بازیکن وارد اتاق ملکه می‌شود. ملکه یک موجودیت عظیم ارگانیک است که در مرکز اتاق شناور است. دو مسیر وجود دارد:
+
+    مسیر ادغام: بازیکن باید به ملکه نزدیک شود و خودش را رها کند. دیوارهای ارگانیک او را می‌بلعند و به هسته می‌رسانند.
+
+    مسیر نابودی: بازیکن باید سه گره‌ی نوری را که ملکه را به ایستگاه وصل کرده‌اند، قطع کند. اما هر گره، تعدادی از موجودات کوچک را آزاد می‌کند که به سمت بازیکن حمله‌ور می‌شوند.
+
+مکانیک: انتخاب اخلاقی، دو راه متفاوت، پیامدهای فوری.
+
+پرامپت تصویری:
+
+    A tiny lone figure in a simple spacesuit standing at the center of a vast organic throne chamber, facing a massive floating core with two paths: one leading into the core, one leading to three glowing geometric nodes. Isometric view from far above, 3D render, untextured flat colors, no texture maps, no noise, no detail maps. Pure shader-based lighting: cold bioluminescent green and blue glow from the core, volumetric fog, deep shadows, monochrome black and white with subtle cold blue and green tones. Minimalist composition: a large smooth organic sphere, simple tendrils connecting to the walls, three small glowing nodes on thin pillars, a circular platform in the center. Faint silhouettes of many creatures surrounding the core, barely visible, not detailed. Atmospheric puzzle game aesthetic inspired by Inside and Limbo, but fully untextured. High contrast, film grain, cinematic, eerie silence. No HUD, no text, no bright colors. Wide shot, 16:9. --ar 16:9
+
+توضیح فارسی:
+
+    صحنه: اتاق ملکه با یک کره‌ی ارگانیک عظیم شناور در مرکز، تاندون‌های ساده متصل به دیوارها، سه گره‌ی نوری کوچک روی ستون‌های نازک، و یک سکوی دایره‌ای در مرکز.
+
+    شخصیت: تکنسین تنها با لباس فضایی، در مرکز سکو، در برابر دو مسیر.
+
+    موجودات: سایه‌های محو که اطراف هسته جمع شده‌اند، بدون جزئیات.
+
+    حس: سکوت، تقدس، اتمسفر سنگین و سرنوشت‌ساز.
+
+
