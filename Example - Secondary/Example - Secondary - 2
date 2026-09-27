@@ -1,0 +1,21 @@
+🎯 معمای اختیاری ۳: گره‌ی نوری چهارم (لانه)
+
+چهار مرحله:
+
+    کشف: بازیکن در اتاق ملکه، در نور ضعیف، یک گره‌ی نوری چهارم را می‌بیند که تقریباً نامرئی است. فقط وقتی بازیکن از زاویه‌ی خاصی نگاه کند، سوسوی خفیفی دیده می‌شود.
+
+    تعامل: بازیکن باید بدون جلب توجه ملکه، به سمت گره برود. اگر مستقیم برود، ملکه متوجه می‌شود. باید از پشت ستون‌ها و در سایه‌ها حرکت کند.
+
+    نتیجه: بازیکن گره را قطع می‌کند. ملکه فریاد می‌کشد، اما نه از درد — از آزادی. سه گره‌ی دیگر هم خاموش می‌شوند. موجودات بی‌حرکت می‌مانند.
+
+    پاداش: یک دریچه‌ی پنهان در کف اتاق باز می‌شود. یک مسیر نوری به سمت بیرون ایستگاه. بازیکن می‌تواند بدون ادغام یا نابودی، ایستگاه را ترک کند. پایان مخفی «آزادی» باز می‌شود.
+
+پرامپت تصویری:
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit in a vast organic throne chamber, noticing a barely visible fourth light node in dim light, only a faint glow. Top-right: the figure moving carefully behind pillars and through shadows to avoid the Queen's attention. Bottom-left: the figure cutting the fourth node, the Queen crying out not in pain but in relief, all three other nodes going dark, creatures motionless. Bottom-right: a hidden hatch opening in the floor, a path of light leading out of the station, the figure walking toward it. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+🎯 جمع‌بندی سه معمای اختیاری
+معما	لایه	پاداش	پایان باز شده
+پنل مخفی	بیرونی	لاگ صوتی + هولوگرام	—
+مخزن شیشه‌ای	میانی	میان‌بر + لاگ	—
+گره‌ی چهارم	لانه	مسیر خروج	آزادی

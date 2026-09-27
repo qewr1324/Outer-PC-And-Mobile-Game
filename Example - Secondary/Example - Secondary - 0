@@ -1,0 +1,17 @@
+🎯 معمای اختیاری ۱: پنل شکسته‌ی مخفی (لایه‌ی بیرونی)
+
+چهار مرحله:
+
+    کشف: بازیکن در گوشه‌ای دور از مسیر اصلی، یک پنل شکسته‌ی کوچک را می‌بیند که با بقیه فرق دارد — رگه‌های نوری ضعیف‌تری دارد.
+
+    تعامل: بازیکن باید یکی از آینه‌های اطراف را با دقت بچرخاند تا نور اصلی را به این پنل مخفی برساند. اما آینه در زاویه‌ای است که نور را به بیرون منعکس می‌کند.
+
+    نتیجه: پنل فعال می‌شود. یک لاگ صوتی قدیمی پخش می‌شود — صدای یک زن خدمه: «اگر کسی این را می‌شنود، بدانید ما اشتباه نکردیم. فقط دیر فهمیدیم.»
+
+    پاداش: یک هولوگرام محو و کوچک از خدمه ظاهر می‌شود که برای لحظه‌ای به بازیکن نگاه می‌کند و سپس محو می‌شود. یک لاگ به آرشیو اضافه می‌شود.
+
+پرامپت تصویری:
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit discovering a small hidden broken panel in a far corner, faint light veins weaker than others. Top-right: the figure rotating a mirror at a difficult angle to redirect a cold white light beam toward the hidden panel. Bottom-left: the panel activating, a faint audio log playing, the figure standing still and listening. Bottom-right: a faint translucent hologram of a crew member appearing briefly before fading, the figure watching. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+

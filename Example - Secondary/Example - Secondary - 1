@@ -1,0 +1,17 @@
+🎯 معمای اختیاری ۲: مخزن شیشه‌ای (لایه‌ی میانی)
+
+چهار مرحله:
+
+    کشف: بازیکن در آزمایشگاه متروک، یک مخزن شیشه‌ای جدا از بقیه پیدا می‌کند. داخلش یک موجود کوچک بی‌حرکت است. هیچ کابل یا لوله‌ای به آن وصل نیست.
+
+    تعامل: بازیکن باید مایع سبز اطراف را با یک کابل نازک به مخزن وصل کند. اما مایع فقط در یک حوضچه‌ی کوچک در گوشه‌ی اتاق جمع شده و باید با هل دادن یک بلوک، مسیر مایع را تغییر دهد.
+
+    نتیجه: مایع وارد مخزن می‌شود. موجود آرام باز می‌شود. برای اولین بار، یک موجود کوچک به بازیکن نگاه می‌کند و حمله نمی‌کند. سپس به سمت دیوار پشت سرش اشاره می‌کند.
+
+    پاداش: دیوار آرام باز می‌شود و یک مسیر مخفی به اتاقی کوچک باز می‌شود. داخل اتاق، یک لاگ صوتی و یک میان‌بر به سمت لانه. بازیکن می‌تواند از مسیر اصلی صرف‌نظر کند.
+
+پرامپت تصویری:
+
+    A 2x2 grid of four isometric 3D scenes, untextured flat colors, no texture maps, no noise, no detail maps, pure shader-based lighting, monochrome black and white with subtle cold blue and faint green tones, volumetric fog, deep shadows, minimalist geometric shapes, cinematic, eerie silence, no HUD, no text, no bright colors, inspired by Inside and Limbo but fully untextured. Top-left: a tiny lone figure in a simple spacesuit discovering a single isolated glass tank in an abandoned laboratory, a small motionless creature inside, no cables attached. Top-right: the figure pushing a heavy block to redirect a small pool of glowing green liquid toward the tank with a thin cable. Bottom-left: the liquid entering the tank, the small creature slowly waking and looking at the figure without attacking. Bottom-right: the creature pointing toward a wall, the wall opening to reveal a hidden small room with a faint audio log and a shortcut. Each panel is a separate scene, clean and minimal. Wide shot, 16:9. --ar 16:9
+
+
